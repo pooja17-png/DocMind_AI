@@ -1,8 +1,7 @@
 import requests
 import streamlit as st
 
-BACKEND_URL = "https://docmind-ai-a48c.onrender.com/"
-
+BACKEND_URL = "https://docmind-ai-pjwe.onrender.com"
 st.set_page_config(
     page_title="DocMind AI",
     page_icon="📄",
